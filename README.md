@@ -12,7 +12,7 @@ pagina basica em html5 .
   <p>esta pagina em HTML simples</p>
   <p><i>este texto esta no formato intalico<i>.<p>
     <p>podemos modificar o conteudo!</p>
-    <p>Olá sou um desemvolvedor de incio estou testando essa pagina espero que der certo !</p>
+    <p>Olá sou um desenvolvedor de incio estou testando essa pagina espero que der certo !</p>
 </body>
 <html>
 
